@@ -53,6 +53,16 @@ nav ul li a {
         color: #bbb;
 }
 
-nav ul li a: hover {
+nav ul li a hover {
         color: #b13030
+}
+
+/* definir as propriedades da imagem principal */
+
+#banner {
+        width: 100%;
+}
+#banner img {
+        width: 100%;
+        margin-bottom: 0;
 }
