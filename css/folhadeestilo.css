@@ -79,12 +79,12 @@ nav ul li a hover {
     left:0;
     background: rgba(181, 9, 9, 0.8);
     z-index:99999;
-    opacity:1;
+    opacity:0;
     -webkit-transition: opacity 400ms ease-in;
     -moz-transition: opacity 400ms ease-in;
     transition: opacity 400ms ease-in;
     pointer-events: none;
-    display: block;
+    display: none;
 }
 
 .modalDialog:target {
