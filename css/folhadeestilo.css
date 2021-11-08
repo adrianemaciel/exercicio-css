@@ -254,3 +254,54 @@ footer .footer-text a {
 #img-conteudo-sobre img {
     width: 100%;
 }
+
+/* definir as propriedades da página contato */
+
+#txt-contato {
+    width: 100%;
+    height: 100%;
+}
+
+#txt-contato form {
+    width: 38%;
+    position: relative;
+    float: left;
+    background-color: #fff;
+    padding: 2%;
+    top: 5%;
+    min-height: 400px;
+}
+
+#txt-contato form label {
+    font-weight: bold;
+}
+
+#txt-contato form input {
+    max-width: 100%;
+    width: 99%;
+    height: 30px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    border: solid #b50909 1px;
+    padding-left: 1%;
+}
+
+#txt-contato form textarea {
+    max-width: 100%;
+    width: 99%;
+    border: solid #b50909 1px;
+    padding-left: 1%;
+    min-width: 100px;
+}
+
+#txt-contato form button {
+    width: 30%;
+    height: auto;
+    cursor: pointer;
+    background-color:#b50909;
+    color: #fff;
+    font-size: 1.5em;
+    padding: 15px 0 15px 0;
+    margin-left: 35%;
+    margin-top: 1%;
+}
