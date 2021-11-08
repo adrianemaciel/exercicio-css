@@ -224,6 +224,7 @@ footer .footer-text a {
     position: relative;
     height: 80%;
     background-color: #fff;
+    top: 10%;
 }
 
 #txt-sobre {
@@ -239,7 +240,7 @@ footer .footer-text a {
     float: left;
 }
 
-#text-sobre dl {
+#txt-sobre dl {
     width: 50%;
 }
 
