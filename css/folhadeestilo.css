@@ -305,3 +305,31 @@ footer .footer-text a {
     margin-left: 35%;
     margin-top: 1%;
 }
+
+#txt-contato #conta-data {
+    width: 26%;
+    position: relative;
+    float: left;
+    padding: 2%;
+    background-color: #b50909;
+    color: #fff;
+    top: 5%;
+    margin-left: 1.5%;
+    height: 400px;
+    text-align: center;
+}
+
+#txt-contato #conta-data h3 {
+    color: #fff;
+    text-align: center;
+}
+
+#txt-contato #conta-data h5 {
+    margin-top: 6%;
+    margin-bottom: 4%;
+    vertical-align: middle;
+}
+
+#txt-contato #conta-data h5 img {
+    width: 50px;
+}
